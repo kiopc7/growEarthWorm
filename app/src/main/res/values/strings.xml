@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MainView</string>
+    <string name="price_format">%,2d</string>
+</resources>
